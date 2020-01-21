@@ -1,0 +1,6 @@
+c:\users\vance45\documents\visual studio 2015\Projects\Fundamentals\Fundamentals\bin\Debug\Fundamentals.exe.config
+C:\Users\vance45\Documents\Visual Studio 2015\Projects\Fundamentals\Fundamentals\obj\Debug\Fundamentals.csprojResolveAssemblyReference.cache
+C:\Users\vance45\Documents\Visual Studio 2015\Projects\Fundamentals\Fundamentals\bin\Debug\Fundamentals.exe
+C:\Users\vance45\Documents\Visual Studio 2015\Projects\Fundamentals\Fundamentals\bin\Debug\Fundamentals.pdb
+C:\Users\vance45\Documents\Visual Studio 2015\Projects\Fundamentals\Fundamentals\obj\Debug\Fundamentals.exe
+C:\Users\vance45\Documents\Visual Studio 2015\Projects\Fundamentals\Fundamentals\obj\Debug\Fundamentals.pdb
